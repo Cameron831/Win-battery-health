@@ -1,2 +1,2 @@
 # Win-battery-health
-A powershell script to calculate the battery health of a Windows device.
+A powershell script to calculate the battery health of a Windows laptops.
